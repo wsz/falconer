@@ -1,0 +1,16 @@
+# mypy cache
+.mypy_cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite databases
+*.sqlite3
+
+# PyCharm folder
+.idea/
+
+# data dumps
+data/
